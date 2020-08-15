@@ -1,0 +1,15 @@
+.form-control::-webkit-input-placeholder {
+  color: grey;
+} /* WebKit, Blink, Edge */
+.form-control:-moz-placeholder {
+  color: grey;
+} /* Mozilla Firefox 4 to 18 */
+.form-control::-moz-placeholder {
+  color: grey;
+} /* Mozilla Firefox 19+ */
+.form-control:-ms-input-placeholder {
+  color: grey;
+} /* Internet Explorer 10-11 */
+.form-control::-ms-input-placeholder {
+  color: grey;
+} /* Microsoft Edge */
